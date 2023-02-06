@@ -58,10 +58,13 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[CVPR2022 DLB]**  [[Paper]()]
 * **[CVPR2022 DLB]**  [[Paper]()]
 ### Directly exploiting ensemble results in inference
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
+* **[MICCAI2017]** Automatic Segmentation and Disease Classification Using Cardiac Cine MR Images [[Paper]()]
+* **[TSG2018]** Short-term load forecasting with deep residual networks [[Paper]()]
+* **[ECCV2018]** Uncertainty Estimates and Multi-Hypotheses Networks for Optical Flow [[Paper]()]
+* **[CVPRWs2019 DIDN]** Deep iterative down-up cnn for image denoising [[Paper]()]
+* **[PR2020]** Multi-model ensemble with rich spatial information for object detection [[Paper]()]
+* **[CVPR2020 Self]** On the uncertainty of self-supervised monocular depth estimation [[Paper]()]
+* **[NeurIPS2020 PAS]** On the Loss Landscape of Adversarial Training: Identifying Challenges and How to Overcome Them [[Paper]()]
 ### Building unitary ensemble architecture in inference
 * **[CVPR2022 DLB]**  [[Paper]()]
 * **[CVPR2022 DLB]**  [[Paper]()]
