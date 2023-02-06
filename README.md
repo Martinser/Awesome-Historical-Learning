@@ -16,18 +16,18 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 
 ## Overview
 
-- [Prediction](#Prediction)
-- [Intermediate Feature Representation](#Intermediate Feature Representation)
-    - [Record the instance-level feature representations](#Record the instance-level feature representations)
-    - [Memorize the feature statistics](#Memorize the feature statistics)
-- [Model Parameter](#Model Parameter)
-    - [Constructing the teachers from past models](#Constructing the teachers from past models)
-    - [Directly exploiting ensemble results in inference](#Directly exploiting ensemble results in inference)
-    - [Building unitary ensemble architecture in inference](#Building unitary ensemble architecture in inference)
-- [Gradient](#Gradient)
-    - [The gradients of the model parameters](#The gradients of the model parameters)
-    - [The gradients of the all-level features](#The gradients of the all-level features)
-- [Loss Values](#Loss Values)
+* [Prediction](#prediction)
+* [Intermediate Feature Representation](#intermediate-feature-representation)
+    * [Record the instance-level feature representations](#record-the-instance-level-feature-representations)
+    * [Memorize the feature statistics](#memorize-the-feature-statistics)
+* [Model Parameter](#model-parameter)
+    * [Constructing the teachers from past models](#constructing-the-teachers-from-past-models)
+    * [Directly exploiting ensemble results in inference](#directly-exploiting-ensemble-results-in-inference)
+    * [Building unitary ensemble architecture in inference](#building-unitary-ensemble-architecture-in-inference)
+* [Gradient](#gradient)
+    * [The gradients of the model parameters](#the-gradients-of-the-model-parameters)
+    * [The gradients of the all-level features](#the-gradients-of-the-all-level-features)
+* [Loss Values](#loss-values)
 
 ---
 ## Prediction
