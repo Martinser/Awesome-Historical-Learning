@@ -1,4 +1,3 @@
-# Awesome-Historical-Learning
 <div align="center">
 <h1>A Survey of Historical Learning: Learning Models with Learning History</h1>
 
@@ -13,7 +12,7 @@ It mainly includes papers related to different historical learning, which are cl
 If you have any questions about the contents of the [paper]() or [list](), please contact us through opening issues or [email](gewu.nku@gmail.com).
 
 ## Update
-* **[February, 2023]** The preprint version is public at arxiv.
+* **[February, 2023]** The repo 'Awesome-Historical-Learning' is public at github.
 ---
 ## Overview
 
