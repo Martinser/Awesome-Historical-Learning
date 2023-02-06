@@ -7,7 +7,7 @@
 </div>
 
 This repo is the official paper list of [A Survey of Historical Learning: Learning Models with Learning History]().
-It mainly includes papers related to different historical learning, which are classified according to different aspects of historical types.
+It mainly includes papers related to historical learning, which are classified according to different aspects of historical types.
 
 If you have any questions about the contents of the [paper]() or [list](), please contact us through opening issues or [email](gewu.nku@gmail.com).
 
