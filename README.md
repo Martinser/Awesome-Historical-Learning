@@ -13,7 +13,7 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 
 ## Update
 * **[February, 2023]** The repo 'Awesome-Historical-Learning' is public at github.
----
+
 ## Overview
 
 - [Prediction](#Prediction)
@@ -30,15 +30,12 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 - [Loss Values](#Loss Values)
 
 ---
-
 ## Prediction
 * **[CVPR2019 CCN]** Mutual learning of complementary networks via residual correction for improving semi-supervised classification [[Paper](https://arxiv.org/abs/2012.12556)] 
 * **[Arxiv2019 SELF]** Self: Learning to filter noisy labels with self-ensembling [[Paper](https://arxiv.org/abs/2201.08683)]
 * **[AAAI2020 D2CNN]** Deep discriminative CNN with temporal ensembling for ambiguously-labeled image classification [[Paper](https://arxiv.org/abs/2204.07356)]
 * **[ICCV2021 PS-KD]** Self-knowledge distillation with progressive refinement of targets [[Paper](https://arxiv.org/abs/2204.07356)]
 * **[CVPR2022 DLB]** Self-Distillation from the Last Mini-Batch for Consistency Regularization [[Paper](https://arxiv.org/abs/2204.07356)]
-
-[[Back to Overview](#overview)]
 
 
 ## Intermediate Feature Representation
@@ -52,8 +49,6 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[CVPR2022 DLB]**  [[Paper]()]
 * **[CVPR2022 DLB]**  [[Paper]()]
 * **[CVPR2022 DLB]**  [[Paper]()]
-
-[[Back to Overview](#overview)]
 
 
 ## Model Parameter
@@ -73,9 +68,6 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[CVPR2022 DLB]**  [[Paper]()]
 * **[CVPR2022 DLB]**  [[Paper]()]
 
-[[Back to Overview](#overview)]
-
-
 
 ## Gradient
 ### The gradients of the model parameters
@@ -94,9 +86,6 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
   * **[CVPR2021 Eqlv2]** Equalization Loss v2: A New Gradient Balance Approach for Long-tailed Object Detection [[Paper]()]
   * **[Arxiv2022 DLB]** Equalized Focal Loss for Dense Long-Tailed Object Detection [[Paper]()]
 
-[[Back to Overview](#overview)]
-
-
 
 ## Loss Values
 * **[CVPR2019 O2u-net]** O2u-net: A simple noisy label detection approach for deep neural networks [[Paper]()]
@@ -105,9 +94,6 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[ECML PKDD2021 DLB]** Small-vote sample selection for label-noise learning [[Paper]()]
 * **[AAAI2022 DLB]** Delving into sample loss curve to embrace noisy and imbalanced data [[Paper]()]
 * **[Arxiv2022 CNLCU]** Ctrl: Clustering training losses for label error detection [[Paper]()]
-
-[[Back to Overview](#overview)]
-
 
 
 ---
