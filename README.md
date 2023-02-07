@@ -103,13 +103,7 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 ## Citation
 If you find this repository useful, please consider citing this list:
 ```
-@misc{chen2022transformerpaperlist,
-    title = {Ultimate awesome paper list: transformer and attention},
-    author = {Chen, Min-Hung},
-    journal = {GitHub repository},
-    url = {https://github.com/cmhungsteve/Awesome-Transformer-Attention},
-    year = {2022},
-}
+
 ```
 
 ---
