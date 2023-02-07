@@ -1,7 +1,7 @@
 <div align="center">
 <h1>A Survey of Historical Learning: Learning Models with Learning History</h1>
 
-[Ge Wu](https://github.com/Martinser), [Lingfeng Yang](https://scholar.google.com/citations?user=RLhH0jwAAAAJ&hl=zh-CN), [Borui Zhao](https://scholar.google.com.hk/citations?user=DzRfzYwAAAAJ&hl=zh-CN&oi=sra), [Renjie Song](https://scholar.google.com.hk/citations?user=-EgH8oIAAAAJ&hl=zh-CN&oi=sra), [Jian Yang](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN), [Xiang Li∗](https://scholar.google.com/citations?user=oamjJdYAAAAJ&hl=zh-CN)
+[Ge Wu](https://github.com/Martinser), [Lingfeng Yang](https://scholar.google.com/citations?user=RLhH0jwAAAAJ&hl=zh-CN), [Renjie Song](https://scholar.google.com.hk/citations?user=-EgH8oIAAAAJ&hl=zh-CN&oi=sra), [Jian Yang](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN), [Xiang Li∗](https://scholar.google.com/citations?user=oamjJdYAAAAJ&hl=zh-CN)
 
 ∗ Corresponding author
 </div>
@@ -36,6 +36,7 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[AAAI2020 D2CNN]** Deep discriminative CNN with temporal ensembling for ambiguously-labeled image classification [[Paper](https://arxiv.org/abs/2204.07356)]
 * **[ICCV2021 PS-KD]** Self-knowledge distillation with progressive refinement of targets [[Paper](https://arxiv.org/abs/2204.07356)]
 * **[CVPR2022 DLB]** Self-Distillation from the Last Mini-Batch for Consistency Regularization [[Paper](https://arxiv.org/abs/2204.07356)]
+* **[NeurIPS2022 RecursiveMix]** RecursiveMix: Mixed Learning with History [[Paper](https://arxiv.org/pdf/2203.06844.pdf)]
 
 
 ## Intermediate Feature Representation
