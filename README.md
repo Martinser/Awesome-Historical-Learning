@@ -61,7 +61,7 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[NeurIPS2022 CheckpointKD]** Efficient knowledge distillation from model checkpoints [[Paper]()]
 * **[Arxiv2022 EEKD]** Learn from the past: Experience ensemble knowledge distillation [[Paper]()]
 * **[Arxiv2022 SEAT]** Self-ensemble adversarial training for improved robustness [[Paper]()]
-* **[NeurIPS17 Mean teacher]** Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results [[Paper]()]
+* **[NeurIPS2017 Mean teacher]** Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results [[Paper]()]
 * **[ECCV2018 TSSDL]** Transductive semi-supervised deep learning using min-max features [[Paper]()]
 * **[CVPR2021 EMAN]** Exponential moving average normalization for self-supervised and semi-supervised learning [[Paper]()]
 * **[ECCV2022]** Unsupervised selective labeling for more effective semi-supervised learning [[Paper]()]
