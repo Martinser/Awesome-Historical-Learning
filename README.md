@@ -54,6 +54,12 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 
 ## Model Parameter
 ### Constructing the teachers from past models
+* **[NeurIPS2020 BYOL]** Bootstrap your own latent: A new approach to self-supervised learning [[Paper]()]
+* **[CVPR2020 MoCo]** Momentum contrast for unsupervised visual representation learning [[Paper]()]
+* **[Arxiv2020 MoCo v2]** Improved baselines with momentum contrastive learning [[Paper]()]
+* **[ICCV2021 MoCo v3]** An empirical study of training self supervised visual transformers [[Paper]()]
+* **[ICCV2021 TKC]** Temporal knowledge consistency for unsupervised visual representation learning [[Paper]()]
+* **[ICCV2021 DINO]** Emerging properties in self-supervised vision transformers [[Paper]()]
 * **[ICML2018 BANs]** Born again neural networks [[Paper]()]
 * **[CVPR2019 MLNT]** Learning to learn from noisy labeled data [[Paper]()]
 * **[CVPR2019 SD]** Snapshot distillation: Teacher student optimization in one generation [[Paper]()]
