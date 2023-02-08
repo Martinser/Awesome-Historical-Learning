@@ -54,10 +54,19 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 
 ## Model Parameter
 ### Constructing the teachers from past models
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
+* **[ICML2018 BANs]** Born again neural networks [[Paper]()]
+* **[CVPR2019 MLNT]** Learning to learn from noisy labeled data [[Paper]()]
+* **[CVPR2019 SD]** Snapshot distillation: Teacher student optimization in one generation [[Paper]()]
+* **[CVPR2020 Tf-KD]** Revisiting knowledge distillation via label smoothing regularization [[Paper]()]
+* **[NeurIPS2022 CheckpointKD]** Efficient knowledge distillation from model checkpoints [[Paper]()]
+* **[Arxiv2022 EEKD]** Learn from the past: Experience ensemble knowledge distillation [[Paper]()]
+* **[Arxiv2022 SEAT]** Self-ensemble adversarial training for improved robustness [[Paper]()]
+* **[NeurIPS17 Mean teacher]** Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results [[Paper]()]
+* **[ECCV2018 TSSDL]** Transductive semi-supervised deep learning using min-max features [[Paper]()]
+* **[CVPR2021 EMAN]** Exponential moving average normalization for self-supervised and semi-supervised learning [[Paper]()]
+* **[ECCV2022]** Unsupervised selective labeling for more effective semi-supervised learning [[Paper]()]
+* **[Arxiv2022 Semi-ViT]** Semi-supervised vision transformers at scale [[Paper]()]
+* **[Arxiv2023 AEMA]** Robust domain adaptive object detection with unified multi-granularity alignment [[Paper]()]
 ### Directly exploiting ensemble results in inference
 * **[MICCAI2017]** Automatic Segmentation and Disease Classification Using Cardiac Cine MR Images [[Paper](https://arxiv.org/pdf/1708.01141.pdf)]
 * **[TSG2018]** Short-term load forecasting with deep residual networks [[Paper](https://arxiv.org/pdf/1805.11956.pdf)]
