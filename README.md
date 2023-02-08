@@ -67,10 +67,15 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[CVPR2020 Self]** On the uncertainty of self-supervised monocular depth estimation [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Poggi_On_the_Uncertainty_of_Self-Supervised_Monocular_Depth_Estimation_CVPR_2020_paper.pdf)]
 * **[NeurIPS2020 PAS]** On the Loss Landscape of Adversarial Training: Identifying Challenges and How to Overcome Them [[Paper](https://proceedings.neurips.cc/paper/2020/file/f56d8183992b6c54c92c16a8519a6e2b-Paper.pdf)]
 ### Building unitary ensemble architecture in inference
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
+* **[UAI2018 SWA]** Averaging weights leads to wider optima and better generalization [[Paper]()]
+* **[NeurIPS2018 FGE]** Loss surfaces, mode connectivity, and fast ensembling of dnns [[Paper]()]
+* **[ICLR2019 fast-SWA]** There are many consistent explanations of unlabeled data: Why you should average [[Paper]()]
+* **[NeurIPS2019 SWAG]** A simple baseline for bayesian uncertainty in deep learning [[Paper]()]
+* **[ICML2019 SWALP]** SWALP: Stochastic Weight Averaging in Low-Precision Training [[Paper]()]
+* **[Arxiv2020 SWA Object Detection]** Swa object detection [[Paper]()]
+* **[ICML2021 late-phase weights]** Neural networks with late-phase weights [[Paper]()]
+* **[NeurIPS2021 SWAD]** SWAD: Domain generalization by seeking flat minima [[Paper]()]
+* **[Arxiv2022 PSWA]** Stochastic Weight Averaging Revisited [[Paper]()]
 
 
 ## Gradient
