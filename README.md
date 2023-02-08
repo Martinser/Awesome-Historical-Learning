@@ -46,10 +46,22 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[CVPR2022 DLB]**  [[Paper]()]
 * **[CVPR2022 DLB]**  [[Paper]()]
 ### Memorize the feature statistics
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
-* **[CVPR2022 DLB]**  [[Paper]()]
+* **[ECCV2016 center loss]** A discriminative feature learning approach for deep face recognition [[Paper]()]
+* **[CVPR2018 TCL]** Triplet-Center Loss for Multi-View 3D Object Retrieval [[Paper]()]
+* **[AAAI2019 ATCL]** Angular triplet-center loss for multi-view 3d shape retrieval [[Paper]()]
+* **[ICCV2019 3C-Net]** 3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization [[Paper]()]
+* **[ECCV2020 A2CL-PT]** Adversarial Background-Aware Loss for Weakly-supervised Temporal Activity Localization [[Paper]()]
+* **[Transactions on Multimedia2020 HCTL]** Deep fusion feature representation learning with hard mining center-triplet loss for person re-identification [[Paper]()]
+* **[Neurocomputing2020 HC loss]** Hetero-center loss for cross-modality person re-identification [[Paper]()]
+* **[CVPR2020 OBTL]** Generalized zero-shot learning via over-complete distribution [[Paper]()]
+* **[ICCV2021 SAMC-loss]** FREE: Feature Refinement for Generalized Zero-Shot Learning [[Paper]()]
+* **[CVPR2021 SCL]** Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection [[Paper]()]
+* **[CVPR2021 Cross-modal center Los]** Cross-Modal Center Loss for 3D Cross-Modal Retrieval [[Paper]()]
+* **[ICML2015 Batch Normalization]** Batch normalization: Accelerating deep network training by reducing internal covariate shift [[Paper]()]
+* **[NeurIPS2016 Weight Normalization]** Weight normalization: A simple reparameterization to accelerate training of deep neural networks [[Paper]()]
+* **[ICML2016 Normalization Propagation]** Normalization prop agation: A parametric technique for removing internal covariate shift in deep networks [[Paper]()]
+* **[NeurIPS2017 Batch Renormalization]** Batch renormalization: Towards reducing minibatch depen dence in batch-normalized models [[Paper]()]
+* **[ICLR2017 AdaBN]** Revisiting batch normaliza tion for practical domain adaptation [[Paper]()]
 
 
 ## Model Parameter
