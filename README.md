@@ -136,7 +136,7 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
   * **[ICML2013 SGD]** On the importance of initialization and momentum in deep learning [[Paper](http://proceedings.mlr.press/v28/sutskever13.pdf)]
   * **[ICLR2015 Adam]** Adam: A method for stochastic optimization [[Paper](https://arxiv.org/pdf/1412.6980.pdf%5D)]
   * **[ICLR2016 Nadam]** Incorporating nesterov momentum into adam [[Paper](https://openreview.net/pdf?id=OM0jvwB8jIp57ZJjtNEZ)]
-  * **[ICCV2017  AdaMod]** An Adaptive and Momental Bound Method for Stochastic Learning [[Paper](https://arxiv.org/pdf/1910.12249.pdf)]
+  * **[Arxiv2019 AdaMod]** An Adaptive and Momental Bound Method for Stochastic Learning [[Paper](https://arxiv.org/pdf/1910.12249.pdf)]
   * **[ICLR2019 AdamW]** Decoupled weight decay regularization [[Paper](https://arxiv.org/pdf/1711.05101.pdf)]
   * **[IJCAI2020 Padam]** Closing the generalization gap of adaptive gradient methods in training deep neural networks [[Paper](https://arxiv.org/pdf/1806.06763.pdf)]
   * **[ICLR2020 Radam]** On the variance of the adaptive learning rate and beyond [[Paper](https://arxiv.org/pdf/1908.03265.pdf)]
