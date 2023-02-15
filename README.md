@@ -153,8 +153,9 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[ECCV2020 DLB]** Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[Paper](https://www.ri.cmu.edu/app/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)]
 * **[ICCV2021 iLPC]** Iterative label cleaning for transductive and semi-supervised few-shot learning [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Lazarou_Iterative_Label_Cleaning_for_Transductive_and_Semi-Supervised_Few-Shot_Learning_ICCV_2021_paper.pdf)]
 * **[ECML PKDD2021 DLB]** Small-vote sample selection for label-noise learning [[Paper](https://discovery.ucl.ac.uk/id/eprint/10135634/1/YouzeXu-ECMLPKDD2021-accepted.pdf)]
+* **[Arxiv2021 CNLCU]** Sample selection with uncertainty of losses for learning with noisy labels [[Paper](https://discovery.ucl.ac.uk/id/eprint/10135634/1/YouzeXu-ECMLPKDD2021-accepted.pdf)]
 * **[AAAI2022 DLB]** Delving into sample loss curve to embrace noisy and imbalanced data [[Paper](https://arxiv.org/pdf/2201.00849.pdf)]
-* **[Arxiv2022 CNLCU]** Ctrl: Clustering training losses for label error detection [[Paper](https://arxiv.org/pdf/2208.08464.pdf)]
+* **[Arxiv2022 CTRL]** Ctrl: Clustering training losses for label error detection [[Paper](https://arxiv.org/pdf/2208.08464.pdf)]
 
 
 ---
