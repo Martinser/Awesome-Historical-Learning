@@ -81,7 +81,7 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[CVPR2020 OBTL]** Generalized zero-shot learning via over-complete distribution [[Paper]()]
 * **[ICCV2021 SAMC-loss]** FREE: Feature Refinement for Generalized Zero-Shot Learning [[Paper]()]
 * **[CVPR2021 SCL]** Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection [[Paper]()]
-* **[CVPR2021 Cross-modal center Los]** Cross-Modal Center Loss for 3D Cross-Modal Retrieval [[Paper]()]
+* **[CVPR2021 Cross-modal center Loss]** Cross-Modal Center Loss for 3D Cross-Modal Retrieval [[Paper]()]
 * **[ICML2015 Batch Normalization]** Batch normalization: Accelerating deep network training by reducing internal covariate shift [[Paper]()]
 * **[NeurIPS2016 Weight Normalization]** Weight normalization: A simple reparameterization to accelerate training of deep neural networks [[Paper]()]
 * **[ICML2016 Normalization Propagation]** Normalization prop agation: A parametric technique for removing internal covariate shift in deep networks [[Paper]()]
