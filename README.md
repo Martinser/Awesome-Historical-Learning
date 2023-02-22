@@ -41,9 +41,9 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 
 ## Intermediate Feature Representation
 ### Record the instance-level feature representations
-* **[AAAI2022 MBJ]** Memory-Based Jitter: Improving Visual Recognition on Long Tailed Data with Diversity in Memory [[Paper]()]
-* **[AAAI2022 MeCoQ]** Contrastive quantization with code memory for unsupervised image retrieval [[Paper]()]
-* **[AAAI2022 InsCLR]** InsCLR: Improving instance retrieval with self-supervision [[Paper]()]
+* **[AAAI2022 MBJ]** Memory-Based Jitter: Improving Visual Recognition on Long Tailed Data with Diversity in Memory [[Paper](https://arxiv.org/pdf/2008.09809.pdf)]
+* **[AAAI2022 MeCoQ]** Contrastive quantization with code memory for unsupervised image retrieval [[Paper](https://arxiv.org/pdf/2109.05205.pdf)]
+* **[AAAI2022 InsCLR]** InsCLR: Improving instance retrieval with self-supervision [[Paper](https://arxiv.org/pdf/2112.01390.pdf)]
 * **[CVPR2022 MAUM]** Learning Memory-Augmented Unidirectional Metrics for Cross-Modality Person Re-Identification [[Paper]()]
 * **[CVPR2022 QB-Norm]** Cross Modal Retrieval with Querybank Normalisation [[Paper]()]
 * **[CVPR2022 CIRKD]** Cross-Image Relational Knowledge Distillation for Semantic Segmentation [[Paper]()]
