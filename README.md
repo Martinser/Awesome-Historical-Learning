@@ -64,12 +64,12 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 * **[CVPR2020 ]** Cross-Batch Memory for Embedding Learning [[Paper]()]
 * **[CVPR2020 PIRL]** Self-supervised learning of pretext-invariant representations [[Paper]()]
 * **[ECCV2020 TAC-CCL]** Unsupervised Deep Metric Learning with Transformed Attention Consistency and Contrastive Clustering Loss [[Paper]()]
-* **[ECCV2020 DLB]** Contrastive multiview coding [[Paper]()]
-* **[CVPR2019 DLB]** Invariance Matters: Exemplar Memory for Domain AdaptivePerson Re-identification [[Paper]()]
-* **[CVPR2018 DLB]** Unsupervised Feature Learning via Non-Parametric Instance Discrimination [[Paper]()]
-* **[ECCV2018 DLB]** Improving Generalization via Scalable Neighborhood Component Analysis [[Paper]()]
+* **[ECCV2020 CMC]** Contrastive multiview coding [[Paper](https://arxiv.org/pdf/1906.05849.pdf)]
+* **[CVPR2019 ECN]** Invariance Matters: Exemplar Memory for Domain AdaptivePerson Re-identification [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Invariance_Matters_Exemplar_Memory_for_Domain_Adaptive_Person_Re-Identification_CVPR_2019_paper.pdf)]
+* **[CVPR2018 NCE]** Unsupervised Feature Learning via Non-Parametric Instance Discrimination [[Paper]()]
+* **[ECCV2018 NCA]** Improving Generalization via Scalable Neighborhood Component Analysis [[Paper]()]
 * **[ICLR2018 MbPA]** Memory-based Parameter Adaptation [[Paper]()]
-* **[CVPR2017 DLB]** Joint detection and identification feature learning for person search [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)]
+* **[CVPR2017 OIM]** Joint detection and identification feature learning for person search [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Joint_Detection_and_CVPR_2017_paper.pdf)]
 ### Memorize the feature statistics
 * **[ECCV2016 center loss]** A discriminative feature learning approach for deep face recognition [[Paper]()]
 * **[CVPR2018 TCL]** Triplet-Center Loss for Multi-View 3D Object Retrieval [[Paper]()]
@@ -150,11 +150,11 @@ If you have any questions about the contents of the [paper]() or [list](), pleas
 
 ## Loss Values
 * **[CVPR2019 O2u-net]** O2u-net: A simple noisy label detection approach for deep neural networks [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_O2U-Net_A_Simple_Noisy_Label_Detection_Approach_for_Deep_Neural_ICCV_2019_paper.pdf)]
-* **[ECCV2020 DLB]** Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[Paper](https://www.ri.cmu.edu/app/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)]
+* **[ECCV2020 ]** Neural batch sampling with reinforcement learning for semi-supervised anomaly detection [[Paper](https://www.ri.cmu.edu/app/uploads/2020/05/WenHsuan_MSR_Thesis-1.pdf)]
 * **[ICCV2021 iLPC]** Iterative label cleaning for transductive and semi-supervised few-shot learning [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Lazarou_Iterative_Label_Cleaning_for_Transductive_and_Semi-Supervised_Few-Shot_Learning_ICCV_2021_paper.pdf)]
 * **[ECML PKDD2021 HVS]** Small-vote sample selection for label-noise learning [[Paper](https://discovery.ucl.ac.uk/id/eprint/10135634/1/YouzeXu-ECMLPKDD2021-accepted.pdf)]
 * **[Arxiv2021 CNLCU]** Sample selection with uncertainty of losses for learning with noisy labels [[Paper](https://discovery.ucl.ac.uk/id/eprint/10135634/1/YouzeXu-ECMLPKDD2021-accepted.pdf)]
-* **[AAAI2022 DLB]** Delving into sample loss curve to embrace noisy and imbalanced data [[Paper](https://arxiv.org/pdf/2201.00849.pdf)]
+* **[AAAI2022 ]** Delving into sample loss curve to embrace noisy and imbalanced data [[Paper](https://arxiv.org/pdf/2201.00849.pdf)]
 * **[Arxiv2022 CTRL]** Ctrl: Clustering training losses for label error detection [[Paper](https://arxiv.org/pdf/2208.08464.pdf)]
 
 
