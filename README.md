@@ -1,9 +1,9 @@
 <div align="center">
 <h1>A Survey of Historical Learning: Learning Models with Learning History</h1>
 
-[Ge Wu](https://github.com/Martinser), [Lingfeng Yang](https://scholar.google.com/citations?user=RLhH0jwAAAAJ&hl=zh-CN), [Wenhai Wang](https://scholar.google.com/citations?user=WM0OglcAAAAJ&hl=zh-CN), [Renjie Song](https://scholar.google.com.hk/citations?user=-EgH8oIAAAAJ&hl=zh-CN&oi=sra), [Jian Yang](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN), [Xiang Li∗](https://scholar.google.com/citations?user=oamjJdYAAAAJ&hl=zh-CN)
+[Xiang Li*](https://scholar.google.com/citations?user=oamjJdYAAAAJ&hl=zh-CN), [Ge Wu*](https://github.com/Martinser), [Lingfeng Yang](https://scholar.google.com/citations?user=RLhH0jwAAAAJ&hl=zh-CN), [Wenhai Wang](https://scholar.google.com/citations?user=WM0OglcAAAAJ&hl=zh-CN), [Renjie Song](https://scholar.google.com.hk/citations?user=-EgH8oIAAAAJ&hl=zh-CN&oi=sra), [Jian Yang#](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN)
 
-∗ Corresponding author
+* Equal contribution. # Corresponding author.
 </div>
 
 This repo is the official paper list of [A Survey of Historical Learning: Learning Models with Learning History]().
